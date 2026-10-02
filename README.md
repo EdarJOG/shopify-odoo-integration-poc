@@ -13,5 +13,5 @@ Este repositorio contiene una **Prueba de Concepto (PoC)** modular desarrollada 
 
 1. Clonar el repositorio:
    ```bash
-   git clone [https://github.com/edaroropeza/shopify-odoo-integration-poc.git](https://github.com/edaroropeza/shopify-odoo-integration-poc.git)
-   cd shopify-odoo-integration-poc
+git clone https://github.com/EdarJOG/shopify-odoo-integration-poc.git
+cd shopify-odoo-integration-poc
